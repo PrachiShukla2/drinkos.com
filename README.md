@@ -9,5 +9,7 @@ it contains the designing part of the website lyk providing fonts , table using 
 Also the good part is (media) which makes the device portable to different devices and light modes of the devices it adjust according applying the content and fonting provided.
 main focus was for security and copywrite issues that are settled using copywrite in the footer content.
 
+this file is to be more enhanced in the future with respect to adding on proper backend and more personalised view ,will we working with js ,reactjs and many more .
+
 HERE IS ALL INSHORT FOR THE WORK DONE IN THE DRINKOS PROJECT.
                  THANKYOU!!
